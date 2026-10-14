@@ -27,6 +27,5 @@ opprinnelig datakilde eller beregningsperioden for trendene.
 
 ## Åpne kartet
 
-Åpne [kart.html](kart.html) i en nettleser. [index.html](index.html)
-videresender til kartet. Bakgrunnskartene og Leaflet lastes fra eksterne
+Åpne [https://frankburmo.github.io/sykkelulykker/](https://frankburmo.github.io/sykkelulykker/) i en nettleser. [index.html]. Bakgrunnskartene og Leaflet lastes fra eksterne
 tjenester, så internettforbindelse er nødvendig.
